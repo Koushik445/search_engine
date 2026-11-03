@@ -1,0 +1,718 @@
+[
+  {
+    "id": "res_001",
+    "restaurant_name": "Meghana Foods",
+    "locality": "Koramangala 5th Block",
+    "city": "Bengaluru",
+    "cuisines": [
+      "Biryani",
+      "Andhra",
+      "South Indian",
+      "Seafood"
+    ],
+    "average_cost_for_two": 650,
+    "price_range": 2,
+    "aggregate_rating": 4.5,
+    "popularity_votes": 18450,
+    "has_online_delivery": true,
+    "has_table_booking": false,
+    "menu_items": [
+      {
+        "dish_name": "Meghana Special Chicken Biryani",
+        "price": 340,
+        "is_veg": false,
+        "category": "Biryani",
+        "tags": [
+          "bestseller",
+          "spicy",
+          "signature"
+        ]
+      },
+      {
+        "dish_name": "Paneer Biryani",
+        "price": 280,
+        "is_veg": true,
+        "category": "Biryani",
+        "tags": [
+          "veg",
+          "popular"
+        ]
+      },
+      {
+        "dish_name": "Chicken Boneless 65",
+        "price": 310,
+        "is_veg": false,
+        "category": "Starters",
+        "tags": [
+          "spicy",
+          "crispy"
+        ]
+      },
+      {
+        "dish_name": "Apollo Fish",
+        "price": 360,
+        "is_veg": false,
+        "category": "Starters",
+        "tags": [
+          "seafood",
+          "must try"
+        ]
+      },
+      {
+        "dish_name": "Guntur Chicken Dry",
+        "price": 320,
+        "is_veg": false,
+        "category": "Starters",
+        "tags": [
+          "andhra",
+          "extra spicy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "res_002",
+    "restaurant_name": "Truffles",
+    "locality": "St. Marks Road",
+    "city": "Bengaluru",
+    "cuisines": [
+      "American",
+      "Burgers",
+      "Fast Food",
+      "Desserts"
+    ],
+    "average_cost_for_two": 600,
+    "price_range": 2,
+    "aggregate_rating": 4.6,
+    "popularity_votes": 24200,
+    "has_online_delivery": true,
+    "has_table_booking": false,
+    "menu_items": [
+      {
+        "dish_name": "All American Cheese Burger",
+        "price": 270,
+        "is_veg": false,
+        "category": "Burgers",
+        "tags": [
+          "bestseller",
+          "beef/chicken",
+          "classic"
+        ]
+      },
+      {
+        "dish_name": "Peri Peri French Fries",
+        "price": 140,
+        "is_veg": true,
+        "category": "Sides",
+        "tags": [
+          "crispy",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Dutch Truffle Chocolate Cake",
+        "price": 180,
+        "is_veg": true,
+        "category": "Desserts",
+        "tags": [
+          "sweet",
+          "signature"
+        ]
+      },
+      {
+        "dish_name": "Crispy Veg Patty Burger",
+        "price": 190,
+        "is_veg": true,
+        "category": "Burgers",
+        "tags": [
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Ferrero Rocher Thick Shake",
+        "price": 210,
+        "is_veg": true,
+        "category": "Beverages",
+        "tags": [
+          "milkshake",
+          "sweet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "res_003",
+    "restaurant_name": "Empire Restaurant",
+    "locality": "Church Street",
+    "city": "Bengaluru",
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Kerala",
+      "Fast Food"
+    ],
+    "average_cost_for_two": 750,
+    "price_range": 2,
+    "aggregate_rating": 4.2,
+    "popularity_votes": 15800,
+    "has_online_delivery": true,
+    "has_table_booking": true,
+    "menu_items": [
+      {
+        "dish_name": "Empire Special Chicken Kabab",
+        "price": 260,
+        "is_veg": false,
+        "category": "Starters",
+        "tags": [
+          "bestseller",
+          "late night",
+          "crispy"
+        ]
+      },
+      {
+        "dish_name": "Coin Parotta",
+        "price": 45,
+        "is_veg": true,
+        "category": "Breads",
+        "tags": [
+          "kerala",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Ghee Rice with Chicken Curry",
+        "price": 310,
+        "is_veg": false,
+        "category": "Mains",
+        "tags": [
+          "combo",
+          "filling"
+        ]
+      },
+      {
+        "dish_name": "Chicken Shawarma Roll",
+        "price": 160,
+        "is_veg": false,
+        "category": "Quick Bites",
+        "tags": [
+          "snack",
+          "popular"
+        ]
+      },
+      {
+        "dish_name": "Brain Fry Dry",
+        "price": 280,
+        "is_veg": false,
+        "category": "Starters",
+        "tags": [
+          "specialty",
+          "mughlai"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "res_004",
+    "restaurant_name": "Vidyarthi Bhavan",
+    "locality": "Gandhi Bazaar, Basavanagudi",
+    "city": "Bengaluru",
+    "cuisines": [
+      "South Indian"
+    ],
+    "average_cost_for_two": 250,
+    "price_range": 1,
+    "aggregate_rating": 4.7,
+    "popularity_votes": 29800,
+    "has_online_delivery": false,
+    "has_table_booking": false,
+    "menu_items": [
+      {
+        "dish_name": "Crispy Benne Masala Dosa",
+        "price": 75,
+        "is_veg": true,
+        "category": "Tiffin",
+        "tags": [
+          "heritage",
+          "bestseller",
+          "butter",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Filter Coffee",
+        "price": 30,
+        "is_veg": true,
+        "category": "Beverages",
+        "tags": [
+          "traditional",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Rava Vada",
+        "price": 45,
+        "is_veg": true,
+        "category": "Tiffin",
+        "tags": [
+          "crispy",
+          "snack",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Poori Saagu",
+        "price": 65,
+        "is_veg": true,
+        "category": "Breakfast",
+        "tags": [
+          "morning",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Kesari Bath",
+        "price": 40,
+        "is_veg": true,
+        "category": "Sweets",
+        "tags": [
+          "ghee",
+          "sweet",
+          "veg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "res_005",
+    "restaurant_name": "Toit Brewpub",
+    "locality": "Indiranagar 100ft Road",
+    "city": "Bengaluru",
+    "cuisines": [
+      "Italian",
+      "Continental",
+      "Finger Food",
+      "Pizza"
+    ],
+    "average_cost_for_two": 1800,
+    "price_range": 4,
+    "aggregate_rating": 4.8,
+    "popularity_votes": 34100,
+    "has_online_delivery": false,
+    "has_table_booking": true,
+    "menu_items": [
+      {
+        "dish_name": "Tint-In Belgian Witbier",
+        "price": 320,
+        "is_veg": true,
+        "category": "Craft Beer",
+        "tags": [
+          "craft beer",
+          "signature"
+        ]
+      },
+      {
+        "dish_name": "Wood Fired Tartufo Pizza",
+        "price": 540,
+        "is_veg": true,
+        "category": "Pizza",
+        "tags": [
+          "mushroom",
+          "truffle oil",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Baked Chicken Nachos",
+        "price": 420,
+        "is_veg": false,
+        "category": "Starters",
+        "tags": [
+          "finger food",
+          "cheesy"
+        ]
+      },
+      {
+        "dish_name": "BBQ Pork Ribs",
+        "price": 620,
+        "is_veg": false,
+        "category": "Mains",
+        "tags": [
+          "barbeque",
+          "popular"
+        ]
+      },
+      {
+        "dish_name": "Toit Baked Cheesecake",
+        "price": 290,
+        "is_veg": true,
+        "category": "Desserts",
+        "tags": [
+          "sweet",
+          "signature"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "res_006",
+    "restaurant_name": "Nagarjuna Restaurant",
+    "locality": "Residency Road",
+    "city": "Bengaluru",
+    "cuisines": [
+      "Andhra",
+      "South Indian",
+      "Biryani"
+    ],
+    "average_cost_for_two": 850,
+    "price_range": 3,
+    "aggregate_rating": 4.4,
+    "popularity_votes": 16300,
+    "has_online_delivery": true,
+    "has_table_booking": true,
+    "menu_items": [
+      {
+        "dish_name": "Andhra Meals (Banana Leaf Thali)",
+        "price": 280,
+        "is_veg": true,
+        "category": "Thali",
+        "tags": [
+          "traditional",
+          "unlimited",
+          "podi",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Chilli Chicken Andhra Style",
+        "price": 330,
+        "is_veg": false,
+        "category": "Starters",
+        "tags": [
+          "signature",
+          "extra spicy",
+          "green chillies"
+        ]
+      },
+      {
+        "dish_name": "Mutton Biryani",
+        "price": 410,
+        "is_veg": false,
+        "category": "Biryani",
+        "tags": [
+          "traditional",
+          "tender"
+        ]
+      },
+      {
+        "dish_name": "Pepper Chicken Masala",
+        "price": 340,
+        "is_veg": false,
+        "category": "Curries",
+        "tags": [
+          "gravy",
+          "black pepper"
+        ]
+      },
+      {
+        "dish_name": "Gunpowder Podi with Ghee Rice",
+        "price": 180,
+        "is_veg": true,
+        "category": "Mains",
+        "tags": [
+          "comfort food",
+          "veg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "res_007",
+    "restaurant_name": "Corner House Ice Cream",
+    "locality": "Jayanagar 4th Block",
+    "city": "Bengaluru",
+    "cuisines": [
+      "Desserts",
+      "Ice Cream"
+    ],
+    "average_cost_for_two": 350,
+    "price_range": 1,
+    "aggregate_rating": 4.7,
+    "popularity_votes": 21500,
+    "has_online_delivery": true,
+    "has_table_booking": false,
+    "menu_items": [
+      {
+        "dish_name": "Death By Chocolate (DBC)",
+        "price": 240,
+        "is_veg": true,
+        "category": "Sundae",
+        "tags": [
+          "legendary",
+          "bestseller",
+          "chocolate fudge",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Hot Fudge Sundae",
+        "price": 170,
+        "is_veg": true,
+        "category": "Sundae",
+        "tags": [
+          "classic",
+          "vanilla",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Trilogy",
+        "price": 210,
+        "is_veg": true,
+        "category": "Sundae",
+        "tags": [
+          "fruit",
+          "nut",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Almond Fudge",
+        "price": 190,
+        "is_veg": true,
+        "category": "Sundae",
+        "tags": [
+          "nuts",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Apple Crumble with Vanilla Ice Cream",
+        "price": 180,
+        "is_veg": true,
+        "category": "Desserts",
+        "tags": [
+          "warm",
+          "baked",
+          "veg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "res_008",
+    "restaurant_name": "Chianti Italian Restaurant & Wine Bar",
+    "locality": "Koramangala 5th Block",
+    "city": "Bengaluru",
+    "cuisines": [
+      "Italian",
+      "European",
+      "Pasta",
+      "Pizza"
+    ],
+    "average_cost_for_two": 1900,
+    "price_range": 4,
+    "aggregate_rating": 4.6,
+    "popularity_votes": 8900,
+    "has_online_delivery": true,
+    "has_table_booking": true,
+    "menu_items": [
+      {
+        "dish_name": "Handmade Ravioli di Ricotta",
+        "price": 520,
+        "is_veg": true,
+        "category": "Pasta",
+        "tags": [
+          "fresh pasta",
+          "spinach ricotta",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Pollo alla Griglia",
+        "price": 580,
+        "is_veg": false,
+        "category": "Mains",
+        "tags": [
+          "grilled chicken",
+          "rosemary"
+        ]
+      },
+      {
+        "dish_name": "Quattro Formaggi Pizza",
+        "price": 610,
+        "is_veg": true,
+        "category": "Pizza",
+        "tags": [
+          "four cheese",
+          "woodfired",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Classic Tiramisu",
+        "price": 340,
+        "is_veg": true,
+        "category": "Desserts",
+        "tags": [
+          "mascarpone",
+          "espresso",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Minestrone Soup",
+        "price": 280,
+        "is_veg": true,
+        "category": "Soups",
+        "tags": [
+          "light",
+          "healthy",
+          "veg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "res_009",
+    "restaurant_name": "A2B - Adyar Ananda Bhavan",
+    "locality": "BTM Layout",
+    "city": "Bengaluru",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Sweets",
+      "Street Food"
+    ],
+    "average_cost_for_two": 400,
+    "price_range": 1,
+    "aggregate_rating": 4.1,
+    "popularity_votes": 11200,
+    "has_online_delivery": true,
+    "has_table_booking": false,
+    "menu_items": [
+      {
+        "dish_name": "Ghee Mini Idli Sambar (14 pcs)",
+        "price": 110,
+        "is_veg": true,
+        "category": "Tiffin",
+        "tags": [
+          "breakfast",
+          "comfort",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Special South Indian Rava Dosa",
+        "price": 125,
+        "is_veg": true,
+        "category": "Dosa",
+        "tags": [
+          "crispy",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Pav Bhaji",
+        "price": 140,
+        "is_veg": true,
+        "category": "Chaat",
+        "tags": [
+          "street food",
+          "butter",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Special Kaju Katli (250g)",
+        "price": 275,
+        "is_veg": true,
+        "category": "Mithai",
+        "tags": [
+          "cashew sweet",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Curd Rice with Pomegranate",
+        "price": 95,
+        "is_veg": true,
+        "category": "Meals",
+        "tags": [
+          "cooling",
+          "veg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "res_010",
+    "restaurant_name": "Mainland China",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "cuisines": [
+      "Chinese",
+      "Asian",
+      "Dim Sum",
+      "Seafood"
+    ],
+    "average_cost_for_two": 1600,
+    "price_range": 3,
+    "aggregate_rating": 4.3,
+    "popularity_votes": 7300,
+    "has_online_delivery": true,
+    "has_table_booking": true,
+    "menu_items": [
+      {
+        "dish_name": "Steamed Chicken Sui Mui Dimsums",
+        "price": 380,
+        "is_veg": false,
+        "category": "Dim Sum",
+        "tags": [
+          "dimsum",
+          "steamed"
+        ]
+      },
+      {
+        "dish_name": "Eight Treasure Vegetarian Soup",
+        "price": 260,
+        "is_veg": true,
+        "category": "Soups",
+        "tags": [
+          "healthy",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "General Tso Chicken",
+        "price": 490,
+        "is_veg": false,
+        "category": "Main Course",
+        "tags": [
+          "spicy sweet",
+          "wok tossed"
+        ]
+      },
+      {
+        "dish_name": "Wok Tossed Hakka Noodles",
+        "price": 320,
+        "is_veg": true,
+        "category": "Noodles",
+        "tags": [
+          "classic",
+          "veg"
+        ]
+      },
+      {
+        "dish_name": "Jasmine Rice with Thai Curry",
+        "price": 450,
+        "is_veg": true,
+        "category": "Main Course",
+        "tags": [
+          "fragrant",
+          "coconut",
+          "veg"
+        ]
+      }
+    ]
+  }
+]
